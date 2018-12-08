@@ -1,0 +1,6 @@
+/homes/dhg18/OOP_cw/MailPunk/build/CMakeFiles/buildfinal.dir
+/homes/dhg18/OOP_cw/MailPunk/build/CMakeFiles/rebuild_cache.dir
+/homes/dhg18/OOP_cw/MailPunk/build/CMakeFiles/buildetpan.dir
+/homes/dhg18/OOP_cw/MailPunk/build/CMakeFiles/edit_cache.dir
+/homes/dhg18/OOP_cw/MailPunk/build/CMakeFiles/MailPunk.dir
+/homes/dhg18/OOP_cw/MailPunk/build/CMakeFiles/buildfinalcut.dir

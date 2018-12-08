@@ -27,7 +27,7 @@ void UI::refreshMailList() {
 
 	for(size_t i = 0; messages[i]; i++) {
 		(*(viewToMessageMap))[*mailListView->insert(
-				{messages[i]->getField("From"), messages[i]->getField("Subject")})] = messages[i];
+							    {messages[i]->getField("From"), messages[i]->getField("Subject"), messages[i]->getField("UID")})] = messages[i];
 	}
 	mailListView->addCallback("clicked", [](FWidget* view, void* ptr) {
 		auto elements = static_cast<UI*>(ptr);

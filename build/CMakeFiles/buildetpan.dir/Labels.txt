@@ -1,0 +1,13 @@
+# Target labels
+ buildetpan
+# Source files and their labels
+/homes/dhg18/OOP_cw/MailPunk/build/CMakeFiles/buildetpan
+/homes/dhg18/OOP_cw/MailPunk/build/CMakeFiles/buildetpan.rule
+/homes/dhg18/OOP_cw/MailPunk/build/CMakeFiles/buildetpan-complete.rule
+/homes/dhg18/OOP_cw/MailPunk/build/buildetpan-prefix/src/buildetpan-stamp/buildetpan-install.rule
+/homes/dhg18/OOP_cw/MailPunk/build/buildetpan-prefix/src/buildetpan-stamp/buildetpan-mkdir.rule
+/homes/dhg18/OOP_cw/MailPunk/build/buildetpan-prefix/src/buildetpan-stamp/buildetpan-download.rule
+/homes/dhg18/OOP_cw/MailPunk/build/buildetpan-prefix/src/buildetpan-stamp/buildetpan-update.rule
+/homes/dhg18/OOP_cw/MailPunk/build/buildetpan-prefix/src/buildetpan-stamp/buildetpan-patch.rule
+/homes/dhg18/OOP_cw/MailPunk/build/buildetpan-prefix/src/buildetpan-stamp/buildetpan-configure.rule
+/homes/dhg18/OOP_cw/MailPunk/build/buildetpan-prefix/src/buildetpan-stamp/buildetpan-build.rule

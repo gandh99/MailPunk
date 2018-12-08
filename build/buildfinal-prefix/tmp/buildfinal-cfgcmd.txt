@@ -1,0 +1,1 @@
+cmd='./configure;--prefix;/homes/dhg18/OOP_cw/MailPunk/build/deps'
